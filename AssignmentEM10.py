@@ -135,8 +135,3 @@ def main_bus(repeat = "y"):
 
 
 main_bus()
-
-	
-#Edin Mehanovic
-#Both figuring out the 'read_file' function and the process was very challenging. Trying to imagine how to do it properly is still difficult for me. 
-#A better understanding of how to make a specific number of columns and rows. 
